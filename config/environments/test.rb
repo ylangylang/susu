@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 SusuProto::Application.configure do
+=======
+SusuBeta::Application.configure do
+>>>>>>> 0ce9efdc1dd236bac5fdd0dcbb4f61b891cd5f8d
   # Settings specified here will take precedence over those in config/application.rb.
 
   # The test environment is used exclusively to run your application's

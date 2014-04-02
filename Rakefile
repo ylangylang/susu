@@ -3,4 +3,8 @@
 
 require File.expand_path('../config/application', __FILE__)
 
+<<<<<<< HEAD
 SusuProto::Application.load_tasks
+=======
+SusuBeta::Application.load_tasks
+>>>>>>> 0ce9efdc1dd236bac5fdd0dcbb4f61b891cd5f8d

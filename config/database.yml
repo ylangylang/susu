@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PostgreSQL. Versions 8.2 and up are supported.
 #
 # Install the pg driver:
@@ -39,11 +40,24 @@ development:
   #   log, notice, warning, error, fatal, and panic
   # Defaults to warning.
   #min_messages: notice
+=======
+# SQLite version 3.x
+#   gem install sqlite3
+#
+#   Ensure the SQLite 3 gem is defined in your Gemfile
+#   gem 'sqlite3'
+development:
+  adapter: sqlite3
+  database: db/development.sqlite3
+  pool: 5
+  timeout: 5000
+>>>>>>> 0ce9efdc1dd236bac5fdd0dcbb4f61b891cd5f8d
 
 # Warning: The database defined as "test" will be erased and
 # re-generated from your development database when you run "rake".
 # Do not set this db to the same as development or production.
 test:
+<<<<<<< HEAD
   adapter: postgresql
   encoding: unicode
   database: d47c15kdgkdfq4
@@ -58,3 +72,15 @@ production:
   pool: 5
   username: lirufzoeziezcv
   password: Eb63Df-EPzvHqbHY-Gdkd1P7Ky
+=======
+  adapter: sqlite3
+  database: db/test.sqlite3
+  pool: 5
+  timeout: 5000
+
+production:
+  adapter: sqlite3
+  database: db/production.sqlite3
+  pool: 5
+  timeout: 5000
+>>>>>>> 0ce9efdc1dd236bac5fdd0dcbb4f61b891cd5f8d

@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 SusuProto::Application.routes.draw do
   resources :users
 
   root :to => 'users#index'
 
+=======
+SusuBeta::Application.routes.draw do
+>>>>>>> 0ce9efdc1dd236bac5fdd0dcbb4f61b891cd5f8d
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
@@ -43,7 +47,11 @@ SusuProto::Application.routes.draw do
   #       get 'recent', on: :collection
   #     end
   #   end
+<<<<<<< HEAD
 
+=======
+  
+>>>>>>> 0ce9efdc1dd236bac5fdd0dcbb4f61b891cd5f8d
   # Example resource route with concerns:
   #   concern :toggleable do
   #     post 'toggle'
