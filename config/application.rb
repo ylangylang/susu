@@ -6,11 +6,7 @@ require 'rails/all'
 # you've limited to :test, :development, or :production.
 Bundler.require(:default, Rails.env)
 
-<<<<<<< HEAD
 module SusuProto
-=======
-module SusuBeta
->>>>>>> 0ce9efdc1dd236bac5fdd0dcbb4f61b891cd5f8d
   class Application < Rails::Application
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers

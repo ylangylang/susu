@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 SusuProto::Application.configure do
-=======
-SusuBeta::Application.configure do
->>>>>>> 0ce9efdc1dd236bac5fdd0dcbb4f61b891cd5f8d
   # Settings specified here will take precedence over those in config/application.rb.
 
   # In the development environment your application's code is reloaded on
