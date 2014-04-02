@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails susu_proto: development" uuid="baedb58c-6ac1-4f77-a9c6-7fd0db216cfd">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails susu_proto: test" uuid="abf8444a-85ba-4a1e-aa16-98de51fef9af">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails susu_proto: production" uuid="cd50f65e-6fe7-4141-a6d7-d719727d6566">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2172952000">
+    <data-source source="LOCAL" name="Rails susu_proto: development" uuid="baedb58c-6ac1-4f77-a9c6-7fd0db216cfd">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:susu_proto_development</jdbc-url>
+      <user-name>sufica</user-name>
+      <user-password>dfd9dfdfdfccdfc3dfc9dfcb</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails susu_proto: test" uuid="abf8444a-85ba-4a1e-aa16-98de51fef9af">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:d47c15kdgkdfq4</jdbc-url>
+      <user-name>lirufzoeziezcv</user-name>
+      <user-password>dfefdfc8df9cdf99dfeedfccdf87dfefdffadfd0dfdcdfe2dfdbdfc8dfe2dff3df87dfeddfcedfc1dfcedf9bdffadf9ddfe1dfd3</user-password>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="Rails susu_proto: production" uuid="cd50f65e-6fe7-4141-a6d7-d719727d6566">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql:d47c15kdgkdfq4</jdbc-url>
+      <user-name>lirufzoeziezcv</user-name>
+      <user-password>dfefdfc8df9cdf99dfeedfccdf87dfefdffadfd0dfdcdfe2dfdbdfc8dfe2dff3df87dfeddfcedfc1dfcedf9bdffadf9ddfe1dfd3</user-password>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+
